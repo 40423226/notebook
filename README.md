@@ -1,6 +1,12 @@
 # notebook
 
-LEGO：https://drive.google.com/drive/folders/0B-Sl05Iuvyl5dW94R1hTcWNsTFk?usp=sharing
+NXT Software Download : https://www.lego.com/en-us/mindstorms/downloads/nxt-software-download
+
+NXT Firmware Download : <a href="https://lc-www-live-s.legocdn.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/downloads/firmware%20and%20software/nxt%20software/firmware131_download1.zip?l.r2=798380141">載點</a></p>
+
+Download the NXT Fantom Driver : <a href="https://lc-www-live-s.legocdn.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/downloads/firmware%20and%20software/nxt%20software/nxt%20fantom%20drivers%20v120.zip?l.r2=-964392510">載點</a></p>
+
+LEGO Digital Designer : http://ldd.lego.com/
 
 英打練習：http://opensource.ntpc.edu.tw/z-type-1200/
 
